@@ -1,5 +1,5 @@
 ﻿<?php
-include "./pages/messages/english.php";
+include "./pages/messages/deutsch.php";
 if (isset($_POST['sql_dns'])) {
     if(!$connection = mysql_connect($_POST['sql_dns'], $_POST['sql_user'], $_POST['sql_pass'])) {
         $errors[] = "<h2>".$messages["i1"]."</h2>";
@@ -275,6 +275,7 @@ else {
                         <input type="text" name="server_sshuser" class="mediumfield" />
                         <span class="field_desc"><?php echo $messages["i66"];?></span>
                     </div>
+					
                     <div class="input_field">
                         <label for="a"><?php echo $messages["i67"];?></label>
                         <input type="text" name="server_sshpass" class="mediumfield" />

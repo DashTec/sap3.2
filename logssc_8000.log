@@ -1,0 +1,89 @@
+<05/20/12@19:13:33> [SHOUTcast] DNAS/Linux v1.9.8 (Feb 28 2007) starting up...
+<05/20/12@19:13:33> [main] pid: 3059
+<05/20/12@19:13:33> [main] loaded config from /var/www/virtual/sap.dashtec.de/htdocs/temp/8000_1337534013.conf
+<05/20/12@19:13:33> [main] initializing (usermax:32 portbase:8000)...
+<05/20/12@19:13:33> [main] No ban file found (sc_serv.ban)
+<05/20/12@19:13:33> [main] No rip file found (sc_serv.rip)
+<05/20/12@19:13:33> [main] opening source socket
+<05/20/12@19:13:33> [main] source thread starting
+<05/20/12@19:13:33> [main] opening client socket
+<05/20/12@19:13:33> [main] Client Stream thread [0] starting
+<05/20/12@19:13:33> [source] listening for connection on port 8001
+<05/20/12@19:13:33> [main] client main thread starting
+<05/20/12@19:13:37> [main] SIGTERM; exiting!
+<05/20/12@19:13:38> [SHOUTcast] DNAS/Linux v1.9.8 (Feb 28 2007) starting up...
+<05/20/12@19:13:38> [main] pid: 3070
+<05/20/12@19:13:38> [main] loaded config from /var/www/virtual/sap.dashtec.de/htdocs/temp/8000_1337534018.conf
+<05/20/12@19:13:38> [main] initializing (usermax:32 portbase:8000)...
+<05/20/12@19:13:38> [main] No ban file found (sc_serv.ban)
+<05/20/12@19:13:38> [main] No rip file found (sc_serv.rip)
+<05/20/12@19:13:38> [main] opening source socket
+<05/20/12@19:13:38> [main] source thread starting
+<05/20/12@19:13:38> [main] opening client socket
+<05/20/12@19:13:38> [main] Client Stream thread [0] starting
+<05/20/12@19:13:38> [source] listening for connection on port 8001
+<05/20/12@19:13:38> [main] client main thread starting
+<05/20/12@19:13:57> [main] SIGTERM; exiting!
+<05/20/12@19:14:07> [SHOUTcast] DNAS/Linux v1.9.8 (Feb 28 2007) starting up...
+<05/20/12@19:14:07> [main] pid: 3083
+<05/20/12@19:14:07> [main] loaded config from /var/www/virtual/sap.dashtec.de/htdocs/temp/8000_1337534047.conf
+<05/20/12@19:14:07> [main] initializing (usermax:32 portbase:8000)...
+<05/20/12@19:14:07> [main] No ban file found (sc_serv.ban)
+<05/20/12@19:14:07> [main] No rip file found (sc_serv.rip)
+<05/20/12@19:14:07> [main] opening source socket
+<05/20/12@19:14:07> [main] source thread starting
+<05/20/12@19:14:07> [main] opening client socket
+<05/20/12@19:14:07> [main] Client Stream thread [0] starting
+<05/20/12@19:14:07> [source] listening for connection on port 8001
+<05/20/12@19:14:07> [main] client main thread starting
+<05/20/12@19:14:19> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:23> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:24> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:27> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:27> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:27> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:27> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:39> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:39> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:39> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:39> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:40> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:40> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:40> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:40> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:41> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:42> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:42> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:42> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:42> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:42> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:43> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:43> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:43> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:43> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:43> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:44> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:44> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:47> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:47> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:47> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:48> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:49> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:49> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:50> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:51> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:51> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:52> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:52> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:14:52> [dest: 31.17.138.37] server unavailable, disconnecting
+<05/20/12@19:43:04> [main] SIGTERM; exiting!
